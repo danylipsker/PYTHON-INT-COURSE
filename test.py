@@ -1,0 +1,2 @@
+msg="hghg"
+print(msg)
